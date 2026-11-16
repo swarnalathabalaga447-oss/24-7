@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "MCbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ShadowGuardSMP.aternos.me",
-    "port": 47457,
+    "ip": "MCplayz.aternos.me",
+    "port": 60892,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "bello",
+        "Minecraft is my fav game"
       ]
     },
     "chat-log": true,
